@@ -1,0 +1,17 @@
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.exe.config
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.exe
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.pdb
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.exe
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.pdb
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.csprojResolveAssemblyReference.cache
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.lib.dll
+C:\Users\acsouza\documents\visual studio 2015\Projects\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.lib.pdb
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.exe.config
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.exe
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.view.pdb
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.csprojResolveAssemblyReference.cache
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.csproj.CoreCompileInputs.cache
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.exe
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\obj\Debug\GpsAmigos.view.pdb
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.Entity.dll
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.view\bin\Debug\GpsAmigos.Entity.pdb

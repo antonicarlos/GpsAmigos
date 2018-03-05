@@ -1,0 +1,6 @@
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\bin\Debug\GpsAmigos.Entity.dll
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\bin\Debug\GpsAmigos.Entity.pdb
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\obj\Debug\GpsAmigos.Entity.csproj.CoreCompileInputs.cache
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\obj\Debug\GpsAmigos.Entity.dll
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\obj\Debug\GpsAmigos.Entity.pdb
+C:\Users\thamy\Downloads\GpsAmigos_v2\GpsAmigos\GpsAmigos.Entity\obj\Debug\GpsAmigos.Entity.csprojResolveAssemblyReference.cache
